@@ -22,8 +22,5 @@
 ## Objetivo
 
 
-## Alcance
-
-
-## Usuario Final
+## Alcance y usuario Final
 
