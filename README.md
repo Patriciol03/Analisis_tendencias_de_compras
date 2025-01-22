@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Patriciol03/Analisis_tendencias_de_compras/blob/main/fc71635c7f1b09ed30413f59bb749582.gif">
+    <img src="https://github.com/Patriciol03/Analisis_tendencias_de_compras/blob/main/Imagenes/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif">
 </p>
 
 
