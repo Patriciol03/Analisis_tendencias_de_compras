@@ -19,9 +19,6 @@
 ## Introduccion
 
 
-## Descripción de la temática
-
-
 ## Objetivo
 
 
