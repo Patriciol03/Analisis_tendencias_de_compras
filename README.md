@@ -16,7 +16,7 @@
 ***Iniciativa de análisis:*** .
 
 ***Dashboard:*** en [PBI]()
-## Introduccion
+## 💻 Introduccion
 
 
 ## 🎯 Objetivo:
@@ -25,5 +25,5 @@
 ## 📶 Análisis en Python 
 
 
-## Alcance y usuario Final
+## 👥 Alcance y usuario Final
 
