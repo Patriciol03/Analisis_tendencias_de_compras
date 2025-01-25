@@ -49,6 +49,7 @@ Para finalizar con el proyecto, Se creo un dashboard interactivo para conocer la
 Se puede visualizar el dashboard realizado en Power Bi desde el siguiente link: [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiYzA2ZThmN2UtZDc0ZC00ZDJhLTkxZmMtNDc3ZTIyNTgzZGI0IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
 
 **📉 Conclusiones relevantes a partir del analisis:**
+
 A partir de la interaccion y la exploracion de los datos, se puede considerar que:
 
 1) Actualmente el Ecommerce cuenta con clientes que van desde los 18 a los 70 años, sin embargo el rango etario que mayor cantidad de compras realiza es el de 55 a 70 años, mientras que los clientes que tienen entre 18 y 24 son la minoria en las ventas de esta tienda online.
