@@ -39,4 +39,5 @@ Donde se realizó:
 - Exploración detallada de las columnas numéricas: (Contar la cantidad de valores únicos y Analizar la frecuencia de cada valor).
 
 ## 👥 Alcance y usuario Final
+Este reporte está diseñado para personas que necesitan acceder a la información de su comercio de forma rápida y eficiente. Para eso, se ha trabajado en una navegación intuitiva y filtros visibles, permitiendo que los usuarios puedan evaluar rápidamente las métricas de su interés y tomar decisiones informadas de manera ágil.
 
