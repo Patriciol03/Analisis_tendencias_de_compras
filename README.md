@@ -19,6 +19,8 @@
 
 ***Dashboard final en Power Bi:*** [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiYzA2ZThmN2UtZDc0ZC00ZDJhLTkxZmMtNDc3ZTIyNTgzZGI0IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
 
+**Aclaracion:** Este proyecto se ha desarrollado utilizando un conjunto de datos ficticios con el objetivo de implementar y demostrar mis conocimientos. Debido a que no será utilizado por usuarios reales, no se hará un énfasis detallado en la documentación de las medidas, tablas, ni en las instrucciones de uso del tablero.
+
 ## 💻 Introduccion
 El proyecto busca explorar y analizar los datos de una base de clientes de un ecommerce para identificar patrones de comportamiento y tendencias en sus compras. La información del dataset incluye aspectos demográficos, preferencias de compra, calificaciones y métodos de pago, entre otros. Los resultados del análisis podrán ser utilizados para optimizar estrategias de marketing, personalización de ofertas y mejora en la experiencia de usuario.
 
@@ -72,6 +74,8 @@ A partir de la interaccion y la exploracion de los datos, se puede considerar qu
 
 2) Dashboard principal para informar sobre las tendencias de compras de los clientes:
 ![Panel Principal](https://github.com/user-attachments/assets/e696ec74-d2c8-401b-886c-13b8eb2318d1)
+
+<h2 align="center">¡Muchas gracias por tu atención! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
 
