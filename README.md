@@ -9,8 +9,6 @@
 <h1> Analisis de compras en ecommerce 🛍️ </h1>
 </center>
 
-## ‼️Aclaracion: 
-Este proyecto se ha desarrollado utilizando un conjunto de datos ficticios con el objetivo de implementar y demostrar mis conocimientos. Debido a que no será utilizado por usuarios reales, no se hará un énfasis detallado en la documentación de las medidas, tablas, ni en las instrucciones de uso del tablero.
 
 ## ***Proyecto Data Analytics***
 
@@ -76,6 +74,9 @@ A partir de la interaccion y la exploracion de los datos, se puede considerar qu
 
 2) Dashboard principal para informar sobre las tendencias de compras de los clientes:
 ![Panel Principal](https://github.com/user-attachments/assets/e696ec74-d2c8-401b-886c-13b8eb2318d1)
+
+## ‼️Aclaracion: 
+Este proyecto se ha desarrollado utilizando un conjunto de datos ficticios con el objetivo de implementar y demostrar mis conocimientos. Debido a que no será utilizado por usuarios reales, no se hará un énfasis detallado en la documentación de las medidas, tablas, ni en las instrucciones de uso del tablero.
 
 <h2 align="center">¡Muchas gracias por tu atención! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
