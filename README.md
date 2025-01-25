@@ -48,15 +48,16 @@ Para finalizar con el proyecto, Se creo un dashboard interactivo para conocer la
 
 Se puede visualizar el dashboard realizado en Power Bi desde el siguiente link: [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiYzA2ZThmN2UtZDc0ZC00ZDJhLTkxZmMtNDc3ZTIyNTgzZGI0IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
 
-**Conclusiones relevantes a partir del analisis:**
-A partir de la interaccion y la exploracion de los datos, se puede considerar que
+**📉 Conclusiones relevantes a partir del analisis:**
+A partir de la interaccion y la exploracion de los datos, se puede considerar que:
+
 1) Actualmente el Ecommerce cuenta con clientes que van desde los 18 a los 70 años, sin embargo el rango etario que mayor cantidad de compras realiza es el de 55 a 70 años, mientras que los clientes que tienen entre 18 y 24 son la minoria en las ventas de esta tienda online.
 2) El 72,8% de los ingresos, provienen de clientes que no estan suscriptos al plan de fidelizacion del comercio, mientras que el otro 27,2% son clientes que si estan suscriptos.
 3) La categoria de productos que mas ingresos genera, es la de **ropa**, muy por encima de los ingresos generados por las categorias de calzados y abrigos.
 5) La edad promedio de los clientes es de 44 años.
 6) el 67,63% de los ingresos provienen de clientes hombres, mientras que el 32,37% de clientas mujeres.
 
-**Ejemplo de algunas acciones a realizar a partir de estos datos:** 
+**🔜 Ejemplo de algunas acciones a realizar a partir de estos datos:** 
 1) Debido a la diferencia de compras en el rango etario, se pueden crear campañas específicas para atraer al público joven (18-24 años), como promociones exclusivas, contenido en redes sociales dirigido a esta audiencia (ej.: TikTok, Instagram), y productos o servicios que les resulten más atractivos.
 2) En referencia a los clientes no suscriptos, seria bueno poder implementar estrategias para aumentar las suscripciones al plan de fidelización, como ofrecer beneficios exclusivos (envío gratuito, descuentos adicionales o acceso anticipado a nuevos productos). Además, destacar el plan durante el proceso de compra para captar a los clientes no suscriptos.
 3) A partir de la dominancio de la categoria ropa, se puede crear promociones cruzadas con otras categorías menos populares, como "compra ropa y obtén un descuento en calzados o abrigos".
