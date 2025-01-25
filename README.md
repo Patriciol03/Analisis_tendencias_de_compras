@@ -43,3 +43,23 @@ Donde se realizó:
 ## 👥 Alcance y usuario Final
 Este reporte está diseñado para personas que necesitan acceder a la información de su comercio de forma rápida y eficiente. Para eso, se ha trabajado en una navegación intuitiva y filtros visibles, permitiendo que los usuarios puedan evaluar rápidamente las métricas de su interés y tomar decisiones informadas de manera ágil.
 
+## 📊 Análsis en Power BI 
+Para finalizar con el proyecto, Se creo un dashboard interactivo para conocer la edad promedio de los clientes, el género que mas realiza compras, los ingresos y métodos de pago preferidos, categorias y articulos, los metodos de envios mas requeridos etc. Comprender estas preferencias y tendencias es esencial para que las empresas adapten sus productos y estrategias de manera más efectiva.
+
+Se puede visualizar el dashboard realizado en Power Bi desde el siguiente link: [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiYzA2ZThmN2UtZDc0ZC00ZDJhLTkxZmMtNDc3ZTIyNTgzZGI0IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
+
+
+
+Portada con botón de ingreso al Dashboard y links de accesos a LinkedIn y GitHub:
+
+![Portada](https://github.com/user-attachments/assets/aac90667-e340-489f-8396-781caa126c57)
+
+Dashboard principal para informar sobre las tendencias de compras de los clientes:
+![Panel Principal](https://github.com/user-attachments/assets/e696ec74-d2c8-401b-886c-13b8eb2318d1)
+
+
+
+
+
+
+
