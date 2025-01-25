@@ -9,7 +9,7 @@
 <h1> Analisis de compras en ecommerce 🛍️ </h1>
 </center>
 
-## Proyecto: Analisis - Tendencias de compras de un Ecommerce**
+## Proyecto: Analisis - Tendencias de compras de un Ecommerce
 
 ***Herramientas utilizadas:*** Excel, Power Bi, Jupyter Notebook, Python, Pandas, Numpy, matplotlib.
 
