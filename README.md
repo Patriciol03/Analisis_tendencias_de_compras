@@ -24,6 +24,7 @@ Detectar patrones de comportamiento de compra y tendencias relevantes en los cli
 
 ## 📶 Análisis en Python 
 Paso fundamental para comprender la naturaleza de los datos, detectar posibles errores o inconsistencias y tomar decisiones informadas en el proceso de análisis y modelado.
+
 Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Proyecto_Tend_de_compras.ipynb](https://github.com/Patriciol03/Analisis_tendencias_de_compras/blob/main/Proyecto_Tend_de_compras.ipynb)
 
 Donde se realizó:
