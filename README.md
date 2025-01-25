@@ -16,7 +16,7 @@
 ***Analisis introductorio en codigo Python:*** [Proyecto_Tend_de_compras.ipynb](https://github.com/Patriciol03/Analisis_tendencias_de_compras/blob/main/Proyecto_Tend_de_compras.ipynb)
 
 ***Dashboard final en Power Bi:*** [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiYzA2ZThmN2UtZDc0ZC00ZDJhLTkxZmMtNDc3ZTIyNTgzZGI0IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
-
+***Herramientas utilizadas:*** Excel, Power Bi, Jupyter Notebook, Python, Pandas, Numpy, matplotlib.
 ## 💻 Introduccion
 El proyecto busca explorar y analizar los datos de una base de clientes de un ecommerce para identificar patrones de comportamiento y tendencias en sus compras. La información del dataset incluye aspectos demográficos, preferencias de compra, calificaciones y métodos de pago, entre otros. Los resultados del análisis podrán ser utilizados para optimizar estrategias de marketing, personalización de ofertas y mejora en la experiencia de usuario.
 
