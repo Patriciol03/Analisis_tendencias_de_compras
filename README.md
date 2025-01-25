@@ -11,7 +11,7 @@
 
 ## ***Proyecto Data Analytics***
 
-***Título del proyecto:*** . Reporte -Tendencias de ventas
+***Título del proyecto:*** . Analisis - Tendencias de compras
 
 ***Iniciativa de análisis:*** .
 
