@@ -29,7 +29,9 @@ Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código 
 Donde se realizó:
 
 -Análisis de la Calidad de los Datos: (Cantidad de registros y columnas, Conocer información de los datos, Tipos de datos para cada columna, Suma de valores nulos por columna, Verificar si hay duplicados:
+
 -Análisis Estadístico: El número de valores no nulos en la columna, La media aritmética, La desviación estándar, El valor mínimo, El primer cuartil (percentil 25), La mediana (percentil 50), El tercer cuartil (percentil 75), El valor máximo, La Mediana (El valor central de los datos cuando están ordenados), La Varianza (Una medida de dispersión de los datos respecto a su media), El Rango (La diferencia entre el valor máximo y mínimo) y la Moda (El valor que más se repite en los datos).
+
 -Exploración detallada de las columnas numéricas: (Contar la cantidad de valores únicos y Analizar la frecuencia de cada valor).
 
 ## 👥 Alcance y usuario Final
