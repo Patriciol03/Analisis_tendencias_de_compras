@@ -13,9 +13,9 @@
 
 ***Herramientas utilizadas:*** Excel, Power Bi, Jupyter Notebook, Python, Pandas, Numpy, matplotlib.
 
-***Analisis introductorio en codigo Python:*** [Proyecto_Tend_de_compras.ipynb](https://github.com/Patriciol03/Analisis_tendencias_de_compras/blob/main/Proyecto_Tend_de_compras.ipynb)
+***Analisis introductorio en codigo Python:*** [Proyecto_Tend_de_compras.ipynb](https://github.com/Patriciol03/Analisis_tendencias_de_compras/blob/main/Proyecto_Tend_de_compras.ipyn)
 
-***Dashboard final en Power Bi:*** [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiYzA2ZThmN2UtZDc0ZC00ZDJhLTkxZmMtNDc3ZTIyNTgzZGI0IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
+***Dashboard final en Power Bi:*** [Reporte - Tendencias de compras.pbi](https://app.powerbi.com/view?r=eyJrIjoiMWJjMjYzNTctM2FjYy00YjhmLWI1MGMtOThhY2Q4Njg1MjI1IiwidCI6ImViZTFkZTRkLWIyM2EtNDMxNC1hNGM4LTk3OTRiZGVlNDY5OSIsImMiOjR9)
 
 
 ## 💻 Introduccion
